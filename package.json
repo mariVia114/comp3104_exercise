@@ -1,0 +1,21 @@
+{
+  "name": "comp3104_exercise",
+  "version": "1.0.0",
+  "description": "- GitHub Action script added",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Warning: No test created yet\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariVia114/comp3104_exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariVia114/comp3104_exercise/issues"
+  },
+  "homepage": "https://github.com/mariVia114/comp3104_exercise#readme"
+}
