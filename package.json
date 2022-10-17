@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "- GitHub Action script added",
   "main": "index.js",
+
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -21,6 +22,7 @@
   "bugs": {
     "url": "https://github.com/mariVia114/comp3104_exercise/issues"
   },
+
   "homepage": "https://github.com/mariVia114/comp3104_exercise#readme",
   "dependencies": {
     "gh-pages": "^2.0.1",
@@ -40,5 +42,5 @@
     "not ie <= 11",
     "not op_mini all"
   ]
-  
+
 }
